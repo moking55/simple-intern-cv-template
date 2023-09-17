@@ -1,0 +1,72 @@
+{
+  "header": {
+    "name": "Maythawat Mahawan",
+    "nickname": "Tawan",
+    "left_col": [
+      {
+        "title": "testmail@example.com",
+        "link": "mailto:testmail@example.com"
+      },
+      {
+        "title": "099-999-9999",
+        "link": "tel:0999999999"
+      },
+      {
+        "title": "Chaing Mai, Thailand"
+      }
+    ],
+    "right_col": [
+      {
+        "title": "github.com/moking55",
+        "link": "//github.com/moking55"
+      }
+    ]
+  },
+  "body": {
+    "overview": {
+      "title": "Overview",
+      "content": "I am a software engineer with 3 years of experience in web development. I have a strong background in web development and I am very interested in learning new technologies. I am a fast learner and I am able to work under pressure. I am also a good team player and I am able to work well with others."
+    },
+    "skills": {
+      "title": "Programming & Technologies",
+      "content": [
+        {
+          "content": [
+            "Languages: JavaScript, Node.js, TypeScript, SQL",
+            "Frameworks: ReactJS, NextJS, Material UI, Chakra UI, TailwindCSS, Emotion, Styled Components",
+            "Tools: Git",
+            "Other: Firebase, Vercel"
+          ]
+        }
+      ]
+    },
+
+    "education": {
+      "title": "Education",
+      "content": ["<b>B. Computer Science, Maejo University</b>, TH 2021 - present [ GPAX 3.43 ]"]
+    },
+    "events": {
+      "title": "Events",
+      "content": [
+        {
+          "content": [
+            "<b>ComCamp 21th</b> - a computer science camp.",
+            "<b>ComCamp 21th</b> - a computer science camp."
+          ]
+        }
+      ]
+    },
+    "interest": {
+      "title": "Interest",
+      "content": [
+        {
+          "content": [
+            "Areas : Coding, Mechanical Keyboards",
+            "Music : EDM, Rock, Japanese"
+          
+          ]
+        }
+      ]
+    }
+  }
+}

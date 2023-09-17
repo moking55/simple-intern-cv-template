@@ -1,0 +1,71 @@
+{
+  "header": {
+    "name": "เมธาวัฒน์ มหาวัน",
+    "nickname": "ตะวัน",
+    "left_col": [
+      {
+        "title": "testmail@example.com",
+        "link": "mailto:testmail@example.com"
+      },
+      {
+        "title": "099-999-9999",
+        "link": "tel:0999999999"
+      },
+      {
+        "title": "เชียงใหม่, ประเทศไทย"
+      }
+    ],
+    "right_col": [
+      {
+        "title": "github.com/moking55",
+        "link": "//github.com/moking55"
+      }
+    ]
+  },
+  "body": {
+    "overview": {
+      "title": "เกี่ยวกับฉัน",
+      "content": "ฉันเป็นวิศวกรซอฟต์แวร์ที่มีประสบการณ์ 3 ปีในการพัฒนาเว็บไซต์ ฉันมีพื้นฐานที่แข็งแกร่งในการพัฒนาเว็บไซต์ และฉันสนใจที่จะเรียนรู้เทคโนโลยีใหม่ๆ มาก ฉันเป็นคนเรียนรู้เร็วและสามารถทำงานภายใต้ความกดดันได้ ฉันยังเป็นผู้เล่นในทีมที่ดีและสามารถทำงานร่วมกับผู้อื่นได้ดี"
+    },
+    "skills": {
+      "title": "ภาษาและเทคโนโลยีที่ใช้",
+      "content": [
+        {
+          "content": [
+            "Languages: JavaScript, Node.js, TypeScript, SQL",
+            "Frameworks: ReactJS, NextJS, Material UI, Chakra UI, TailwindCSS, Emotion, Styled Components",
+            "Tools: Git",
+            "Other: Firebase, Vercel"
+          ]
+        }
+      ]
+    },
+
+    "education": {
+      "title": "การศึกษา",
+      "content": ["<b>ปริญญาตรี. วิทยาการคอมพิวเตอร์</b> มหาวิทยาลัยแม่โจ้, 2021 - ปัจจุบัน [ GPAX 3.43 ]"]
+    },
+    "events": {
+      "title": "กิจกรรม",
+      "content": [
+        {
+          "content": [
+            "<b>โครงการค่ายยุวชนคอมพิวเตอร์ ครั้งที่ 20</b>.",
+            "<b>โครงการค่ายยุวชนคอมพิวเตอร์ ครั้งที่ 21</b>."
+          ]
+        }
+      ]
+    },
+    "interest": {
+      "title": "ความสนใจ",
+      "content": [
+        {
+          "content": [
+            "แนวเกม : อาเขต, อินดี้, FPS",
+            "แนวเพลง : EDM, Rock, Japanese"
+          ]
+        }
+      ]
+    }
+  }
+}
