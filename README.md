@@ -1,4 +1,4 @@
-## Simple Intern CV Template
+# Simple Intern CV Template
 
 ## Project Overview:
 The Simple Intern CV Template is a user-friendly and professionally designed template created to assist interns in crafting impressive resumes for their internship applications. This template aims to simplify the process of creating a standout CV by providing a clean and organized format that highlights essential information effectively.
