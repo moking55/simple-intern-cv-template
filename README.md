@@ -1,35 +1,28 @@
-# simple-intern-cv-template
+## Simple Intern CV Template
 
-This template should help get you started developing with Vue 3 in Vite.
+## Project Overview:
+The Simple Intern CV Template is a user-friendly and professionally designed template created to assist interns in crafting impressive resumes for their internship applications. This template aims to simplify the process of creating a standout CV by providing a clean and organized format that highlights essential information effectively.
 
-## Recommended IDE Setup
+## Project Objectives:
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+**Simplicity:** Create a straightforward template that is easy for interns to use, even if they have limited design skills or experience in creating CVs.
 
-## Customize configuration
+**Professionalism:** Ensure the template conveys a professional and polished appearance, helping interns make a strong first impression on potential employers.
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+**Customizability:** Allow users to personalize the template with their own information, including contact details, skills, education, work experience, and any other relevant sections.
 
-## Project Setup
+**Readability:** Prioritize readability and clear formatting to ensure that the CV is easy to skim and understand.
 
-```sh
-npm install
-```
+## Key Features:
 
-### Compile and Hot-Reload for Development
+**Clean and Modern Design:** The template incorporates a contemporary design with a focus on simplicity and elegance.
 
-```sh
-npm run dev
-```
+**Printable and Digital Formats:** The CV can be printed or shared digitally, allowing for versatile usage.
 
-### Compile and Minify for Production
+## Benefits for Users:
 
-```sh
-npm run build
-```
+**Time-Saving:** Interns can save time by starting with a pre-designed template, rather than creating a CV from scratch.
 
-### Lint with [ESLint](https://eslint.org/)
+**Professional Presentation:** The template ensures that their CV looks polished and professional, increasing their chances of being noticed by potential employers.
 
-```sh
-npm run lint
-```
+**Easy to Edit:** Users can easily update and customize the template to reflect their unique qualifications and experiences.
